@@ -17,4 +17,4 @@ lavad keys add wallet
 #SAVE PRIVATE VALIDATOR KEY :
 —————————————-
 
-cat $HOME/.lava/config/priv_validator_key.json
+
